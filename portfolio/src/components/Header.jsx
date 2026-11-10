@@ -36,7 +36,7 @@ function Header() {
         id="primary-navigation"
         aria-label="Main navigation"
       >
-        <a href="#work" onClick={closeMenu}>Work</a>
+        <a href="#work" onClick={closeMenu}>Projects</a>
         <a href="#about" onClick={closeMenu}>About</a>
         <a href="#experience" onClick={closeMenu}>Experience</a>
         <a className="nav-cta" href="#contact" onClick={closeMenu}>
